@@ -1,0 +1,191 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/braziliandelight.pw.toml"
+hash = "7b2e94f22bb74e638d4d62d72cc0d25c03c66174a8cdcf882929360f59f9c0e0"
+metafile = true
+
+[[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "3fec3b665aa3c260075cabf00d04c75c6effd6b7b5f4e5e7a2c043b803d54ed8"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "1b363c34f293039cfa3761949ea872f719e0d67e1aba959e5ca1efb8613f4f74"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "d3e9d79aae0dc39496f96fb35b06d21afcfde6da5a0bc7cf9f17a99c705a978e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
+metafile = true
+
+[[files]]
+file = "mods/crate-delight.pw.toml"
+hash = "8b2987cd310d39c76c1c9a53b68f40e5b0f4d67cb80544fd7cc752ee4293b0aa"
+metafile = true
+
+[[files]]
+file = "mods/deltaboxlib.pw.toml"
+hash = "0a02d1cdb77be51e2b0601c5f7de9f7489d6b64ea3cae85fb680adb479719dc0"
+metafile = true
+
+[[files]]
+file = "mods/display-delight-fabric.pw.toml"
+hash = "fe23222452df9e4d57a1b27db2162bfddd351471c291d5ef08db5806e5794bbd"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "eb8252941ef1fd3cf0eeb8df8d0a77213f33306cd3a64e8fce0f65e1db9ef76e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "38d70a352d8c52e8466a190867926c7f6f44776bd9b193ce64e3a3afec513014"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "8c091c9a660b84f152e47c0d835d8865463ad79636264a68ca6d312399b46538"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "8b055e1997973e615d20848f0c7d0712ebad4aa24ab8a3ee6d9682ea53642309"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "9d37d326d9557fdd25c97d72ac1bbd1e74c524aa5dca437a91d0de645dff6545"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "4e94f635510d86d01a94bbc78eb471632ebe203b58b88490a73a785d733e42ed"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "dce0df1d0cb1a7f05811ba502f3a3de0458e0c5154f1b72ae493a339f3866083"
+metafile = true
+
+[[files]]
+file = "mods/handcrafted.pw.toml"
+hash = "2600fb5f2efa6dffd1bcc04eea4c2646c101da4320da0c88d5616d5c2f41a439"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "de9842a74bad2677a92f96157171b3108dcacb6a517d395006a1f158d5f46bbb"
+metafile = true
+
+[[files]]
+file = "mods/immersive-paintings.pw.toml"
+hash = "ed3a070105ab93800416ee8c77424e649778deef53a6145be72516a7e662cf88"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "37a45ed98e4edc9c8224cb06f72be8914fae69687601d4e15009f1cb9f27563c"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "76a2560989102413693bbfbea83570287b3dce4f6ed40dc69aacbd3268633fe7"
+metafile = true
+
+[[files]]
+file = "mods/krypton.pw.toml"
+hash = "c4e45594c8d1ab3dacc3b49142f16fb253178dd31d97cc917bf4a4d54f21e081"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "c3e74ba92df17c5fbdb21c4d2418e1296dc579049f060bd0fb5e8604bf9556ac"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "2e2c1b47b513663871e71c89a699c66ac9fcc97633f007ed064ce4410f220f5a"
+metafile = true
+
+[[files]]
+file = "mods/platform.pw.toml"
+hash = "246e7782ef2cab501af48f56353de9d6a46f3479dcb12f282152eeacd03b7e60"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "f013040d2544856ca9f8fe4e07e040aa8a78c87ace3426743a8429d73cba81a3"
+metafile = true
+
+[[files]]
+file = "mods/recipe-modification.pw.toml"
+hash = "fddf7eba11a547266cd2814adcef09f45617efcce0a9561b83bd905b8a2284b9"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "16dbcc0591b503eb3b92c4808910bd059d5bf30a233a333116614058dbcf333c"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "d3f633dd12cd039a4e58dd398d1c80a324b0d78b9da5b3972b69640bfed211ed"
+metafile = true
+
+[[files]]
+file = "mods/rustic-delight.pw.toml"
+hash = "296d4d3b1c75ba7447b533bb523bfbc4aa6f4dc9b3e912cab435dd5b6acaf738"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "b75e08bb2f806d7daf197b3e704b0dedbce5806c261cc7627d9f9866550430c7"
+metafile = true
+
+[[files]]
+file = "mods/storage-delight.pw.toml"
+hash = "91bbff2b5c16ac3ed35369f391ae7f05d2cc4a0624a7e88277698935e9212604"
+metafile = true
+
+[[files]]
+file = "mods/vanillabackport.pw.toml"
+hash = "0865bcf91d32cd710ac30a282a3c2202816670942c5175f7f475a29aeb3fe19b"
+metafile = true
+
+[[files]]
+file = "mods/vegan-delight.pw.toml"
+hash = "1da9c6327f4a7f73b0a9115959d31eb1bb9036c9764bcb84639bb20ef043eecf"
+metafile = true
