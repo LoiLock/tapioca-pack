@@ -1,0 +1,9 @@
+services:
+  minecraft-server:
+    image: itzg/minecraft-server
+    pull_policy: always
+    volumes:
+      - ./mc-server:/data
+    environment:
+      - TYPE=FABRIC
+      - PACKWIZ_URL=https://raw.githubusercontent.com/LoiLock/tapioca-pack/refs/heads/main/pack.toml

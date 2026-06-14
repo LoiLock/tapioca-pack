@@ -5,6 +5,10 @@ file = "README.md"
 hash = "e5a268162e725b151bb02d5a051d117496f125deac1516b8d8d28a00e19145ed"
 
 [[files]]
+file = "docker-compose.yaml"
+hash = "980cc6bf828186223dc28bcb0c48b97b2d809988ea99dc275beeb2e32718ba29"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
 metafile = true
@@ -232,9 +236,4 @@ metafile = true
 [[files]]
 file = "mods/vanillabackport.pw.toml"
 hash = "0865bcf91d32cd710ac30a282a3c2202816670942c5175f7f475a29aeb3fe19b"
-metafile = true
-
-[[files]]
-file = "mods/vegan-delight.pw.toml"
-hash = "1da9c6327f4a7f73b0a9115959d31eb1bb9036c9764bcb84639bb20ef043eecf"
 metafile = true
