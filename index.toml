@@ -74,6 +74,11 @@ hash = "fe23222452df9e4d57a1b27db2162bfddd351471c291d5ef08db5806e5794bbd"
 metafile = true
 
 [[files]]
+file = "mods/emi.pw.toml"
+hash = "a0a3d38daafb58117aaf29bb0b0520534abb7175e8d98f63cb47a65c75afac79"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "eb8252941ef1fd3cf0eeb8df8d0a77213f33306cd3a64e8fce0f65e1db9ef76e"
 metafile = true
