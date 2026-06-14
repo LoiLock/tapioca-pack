@@ -1,8 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "README.md"
+hash = "e5a268162e725b151bb02d5a051d117496f125deac1516b8d8d28a00e19145ed"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "17fc9c6cab5ae0ea6973440f143ad6ffa4e5d373749c80077b631dbbe4df3f3b"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "1102440dd2533ba3a154419bb95ff1f81b858201eb0c44d2a2eea486c74e565a"
+metafile = true
+
+[[files]]
+file = "mods/athena-ctm.pw.toml"
+hash = "fb5deb56a77c8a30f9fbc0c54ba5768bdb6d84c9b94d6de36edfb3076bff94b0"
 metafile = true
 
 [[files]]
@@ -31,8 +45,18 @@ hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "fe84e2227c405bf9b735f01f307a01768784b9d49df82a13ecda3d3b6d198507"
+metafile = true
+
+[[files]]
 file = "mods/crate-delight.pw.toml"
 hash = "8b2987cd310d39c76c1c9a53b68f40e5b0f4d67cb80544fd7cc752ee4293b0aa"
+metafile = true
+
+[[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "60af6a35855d15c5e608d7fdb3741c04a0b2300ca085df9bcc86422ba5969bb5"
 metafile = true
 
 [[files]]
@@ -121,6 +145,21 @@ hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-furniture.pw.toml"
+hash = "d904d6871373d0813d8e9eccf161ac9ac5b19f6f5a74af6d3382c43ac7ca761f"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "a06a1378730110071264b313a2398353be58db58c9af678eb0ccb8ca3efc3f92"
+metafile = true
+
+[[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "1c142b3c08504ed1606f340a576a7f1dda6c0d550ac9cac197ef499e9d5354af"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b9651d06e56ad51c1cdcf4b03b6a34328b7dc941f263ff92b189ee26a47cc224"
 metafile = true
@@ -128,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/modmenu.pw.toml"
 hash = "4a33f888af603e0859359f44b068854e4148d4fba35ee0818bb977171236a805"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "7162622b0e7a2f9fdf6d893c178953c64957bcb4a8ea546f45deaf21c8e2652c"
 metafile = true
 
 [[files]]
@@ -178,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/storage-delight.pw.toml"
 hash = "91bbff2b5c16ac3ed35369f391ae7f05d2cc4a0624a7e88277698935e9212604"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "ec6f35a1b30090f4cf4003c66978bcd0b39e40f8bf907040d9f1a41eae8485a6"
 metafile = true
 
 [[files]]

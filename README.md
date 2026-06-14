@@ -1,0 +1,1 @@
+"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/LoiLock/tapioca-pack/refs/heads/main/pack.toml
