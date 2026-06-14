@@ -1,11 +1,11 @@
 name = "Tapioca Pack"
-version = "1.0.0"
+version = "1.0.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2a5321c127de47d0fcd0f40965ca28918b7fb3173f68cd8b253d061f2fa421dc"
+hash = "fcb7f2c89d7bea24eea923cf6c402d3e3865ca21040d6498b5a85ad104990831"
 
 [versions]
 fabric = "0.19.3"
